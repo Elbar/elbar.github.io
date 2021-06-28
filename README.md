@@ -13,3 +13,19 @@ Today, I'm going to tell you about a real-time errors tracking in Android applic
 Sentry is application monitoring platform helps every developer
 diagnose, fix, and optimize the performance of their code.
 ```
+
+let's look at the reasons why we need it. 
+
+###### The main reasons for developers:
+
+* Getting an instant notification about troubles
+* Helping QA Engineers with testing functionality
+* Sorting the errors by predefined or custom tags
+* Getting rid of risks to ship code with potential bugs
+* Quickly finding and fixing production errors
+
+###### The main reasons for business owners:
+
+* Finding where your developers have made mistakes
+* Obtain user's feedback 
+* Saving money
