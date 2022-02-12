@@ -3,7 +3,7 @@ tagline: IT Blog by Elbar Israilov Software Engineer Mobile Developer Android De
 author: Elbar Israilov
 github_username:  Elbar
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
   - jekyll-menus
