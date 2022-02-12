@@ -109,8 +109,6 @@ Kyrgyz-Turkish Manas University
 
 ### Projects:
 
-:partying_face:
-
 
  ##### 1. Rayyan 
 
