@@ -3,7 +3,7 @@ tagline: Elbar Israilov Software Engineer Mobile Developer Android Developer
 author: Elbar Israilov
 github_username:  Elbar
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
   - jekyll-menus
