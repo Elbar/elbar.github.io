@@ -1,6 +1,4 @@
-# Hi there! 👋🏼
-
-[![Header](https://www.taft.lk/assets/img/androiddevelopment/banner.jpg "Header")](https://www.creative-tim.com/)
+[![Link](https://www.taft.lk/assets/img/androiddevelopment/banner.jpg "Header")](https://www.linkedin.com/in/rocketvista/)
 
 
 #### About me:
@@ -202,3 +200,8 @@ let's look at the reasons why we need it.
 * Finding where your developers have made mistakes
 * Obtain user's feedback 
 * Saving money
+
+
+
+<p align="center"> © 2022 All rights reserved. Made with ❤️  </p>
+</p>
