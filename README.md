@@ -81,7 +81,7 @@ I'm experienced Android Software Engineer with more than 4 years of experience, 
 
 ### Work experience:
 
-##### Jun 2021 - Present
+##### Jun 2021 - Present 9 months
 Temabit Software Development - Full-Time - Remote
 Kiev, Ukraine
 
@@ -97,7 +97,7 @@ Bishkek, Kyrgyzstan
  Assistment in the roll-out of software releases.
 - Contribution to code reviews and merges
 
-##### Aug 2019 - Apr 2020
+##### Aug 2019 - Apr 2020 9 months
 Yurtah.com - Contract, Remote
 New York, USA
 
@@ -105,7 +105,7 @@ New York, USA
  Make release management.
  - Contribution to code reviews and merges
 
-##### Jan 2018 - Sep 2019
+##### Jan 2018 - Sep 2019 1 year 9 months
 Teztap LLC - Full-Time
 Bishkek, Kyrgyzstan
 
