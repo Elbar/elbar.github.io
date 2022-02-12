@@ -82,7 +82,7 @@ I'm experienced Android Software Engineer with more than 4 years of experience, 
 ### Work experience:
 
 ##### Jun 2021 - Present 9 months
---Temabit Software Development - Full-Time - Remote
+**Temabit Software Development - Full-Time - Remote**
 Kiev, Ukraine
 
 - Design, develop, and maintenance  the application with over 1m downloads
@@ -90,7 +90,7 @@ Kiev, Ukraine
 - Contribution to code reviews and merges
 
 ##### Sep 2019 - Aug 2021 2 yrs
---Axel LLC - Full-Time
+**Axel LLC - Full-Time**
 Bishkek, Kyrgyzstan
 
 - Design Android mobile applications on both phones and tablets, supports applications under development and customizes current applications.
@@ -98,7 +98,7 @@ Bishkek, Kyrgyzstan
 - Contribution to code reviews and merges
 
 ##### Aug 2019 - Apr 2020 9 months
---Yurtah.com - Contract, Remote
+**Yurtah.com - Contract, Remote**
 New York, USA
 
 - Design, development, and maintenance the applications for Food and Beverage domain.
@@ -106,7 +106,7 @@ New York, USA
  - Contribution to code reviews and merges
 
 ##### Jan 2018 - Sep 2019 1 year 9 months
---Teztap LLC - Full-Time
+**Teztap LLC - Full-Time**
 Bishkek, Kyrgyzstan
 
 - Writing server-side and REST API with Python/Django
@@ -115,10 +115,10 @@ Bishkek, Kyrgyzstan
 ### Education:
 
 #####  2018 - 2020  Master of Business Administration - MBA
---American University of Central Asia(AUCA)
+**American University of Central Asia(AUCA)**
 
 #####  2013 - 2018 Bachelor of Science Applied Mathematics and Informatics
---Kyrgyz-Turkish Manas University 
+**Kyrgyz-Turkish Manas University**
 
 
 <p align="center"> © 2022 All rights reserved. Made with ❤️ </p>
