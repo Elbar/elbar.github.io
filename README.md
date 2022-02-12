@@ -1,3 +1,5 @@
+Hi there! 👋🏼
+
 [![Link](https://www.taft.lk/assets/img/androiddevelopment/banner.jpg "Header")](https://www.linkedin.com/in/rocketvista/)
 
 
