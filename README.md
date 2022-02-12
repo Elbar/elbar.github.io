@@ -201,5 +201,4 @@ let's look at the reasons why we need it.
 
 
 
-<p align="center"> © 2022 All rights reserved. Made with ❤️  </p>
-</p>
+<p align="center"> © 2022 All rights reserved. Made with ❤️ </p>
