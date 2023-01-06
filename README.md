@@ -3,7 +3,7 @@
 
 #### About me:
 
-I'm experienced Android Software Engineer with more than 4 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
+I'm experienced Android Software Engineer with more than 5 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
 
 * More than 10 published apps on Google Play
 
@@ -132,4 +132,4 @@ American University of Central Asia(AUCA)
 Kyrgyz-Turkish Manas University
 
 
-<p align="center"> © 2022 All rights reserved. Made with ❤️ </p>
+<p align="center"> © 2023 All rights reserved. Made with ❤️ </p>
