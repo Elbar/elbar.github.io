@@ -1,9 +1,39 @@
 [![Link](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 "Header")](https://www.linkedin.com/in/rocketvista/)
 
 
-#### About me:
+#### Professional summary:
 
 I'm experienced Android Software Engineer with more than 5 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
+
+* Overall 5 years of experience as Software Development Engineer with Designing, Developing, Programming, Testing, and Implementing the Android Application for Smartphones, Tablet and Client Server Applications.
+
+* Proficient in Android applications development involving front-end user interface development, push notifications, Adapters, Content Providers and Services.
+
+* In-depth experience in using Kotlin with Android Studio and Intellij Idea, designing UI layouts using LinearLayout, RelativeLayout, ConstraintLayout, TableLayout, ListView, GridView and using Android native and custom widgets.
+
+* Excellent debugging and problem-solving skills with Intellij Idea, Android Studio.
+
+* Experience in various SDLC methodologies like Agile development and Rapid Application Development (RAD).
+
+* Expertise in developing Android Enterprise applications for tablets and mobile devices using Android SDK, Android Studio.
+
+* Proficient in gathering requirement analysis, functional analysis, conceptual and logical thinking.
+
+* Experience working with Google MAps APIs, In-App Purchases, In-App advertising, Geo locations, Google Analytics.
+
+* Hands on experience in Camera, Wi-FI, Sensors, Bluetooth, Telephony, Google Maps, Firebase API, OAuth.
+
+* Integrating third party Social API's into Android apps such as Twitter, Facebook, Google, Youtube.
+
+* Experience in TDD and BDD.
+
+* Experience in using advanced Android capabilties including camera, multimedia playback.
+
+* Implemented CI/CD pipeline using Github Actions from scratch for development team.
+
+* Deep understanding of modern android development & ecosystem with emphasis on functional reactive programming with Dagger & RxJava.
+
+* Knowledge and experience on Performance Monitoring and Protocol Analyzer tools (e.g., Sentry)
 
 * More than 10 published apps on Google Play
 
@@ -28,7 +58,7 @@ I'm experienced Android Software Engineer with more than 5 years of experience, 
 
 
 
-### My experience:
+### Professional experience:
 
 #### Programming languages:
 
