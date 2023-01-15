@@ -64,6 +64,7 @@ I'm experienced Android Software Engineer with more than 5 years of experience, 
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img src="https://img.shields.io/badge/Dart-3776AB?style=for-the-badge&logo=dart&logoColor=white" />
 
@@ -79,6 +80,8 @@ I'm experienced Android Software Engineer with more than 5 years of experience, 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-563D7C?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/Junit5-563D7C?style=for-the-badge&logo=junit5&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
 
