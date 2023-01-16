@@ -19,7 +19,7 @@ I'm experienced Android Software Engineer with more than 5 years of experience, 
 
 * Proficient in gathering requirement analysis, functional analysis, conceptual and logical thinking.
 
-* Experience working with Google MAps APIs, In-App Purchases, In-App advertising, Geo locations, Google Analytics.
+* Experience working with Google Maps APIs, In-App Purchases, In-App advertising, Geo locations, Google Analytics.
 
 * Hands on experience in Camera, Wi-FI, Sensors, Bluetooth, Telephony, Google Maps, Firebase API, OAuth.
 
@@ -43,9 +43,7 @@ I'm experienced Android Software Engineer with more than 5 years of experience, 
 
 * Good communication skills
 
-* Successful migration from legacy code to modern technologies (Kotlin, Coroutines, Koin) in old project while keeping adding new features as business required. 
-
-* Resulted in cleaner code structure and better performance.
+* Successful migration from legacy code to modern technologies (Kotlin, Coroutines, Koin) in old project while keeping adding new features as business required. Resulted in cleaner code structure and better performance.
 
 
 #### My hobbies:
