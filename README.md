@@ -3,9 +3,9 @@
 
 #### Professional summary:
 
-I'm experienced Android Software Engineer with more than 5 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
+I'm experienced Android Software Engineer with more than 6 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
 
-* Overall 5 years of experience as Software Development Engineer with Designing, Developing, Programming, Testing, and Implementing the Android Application for Smartphones, Tablet and Client Server Applications.
+* Overall 6 years of experience as Software Development Engineer with Designing, Developing, Programming, Testing, and Implementing the Android Application for Smartphones, Tablet and Client Server Applications.
 
 * Proficient in Android applications development involving front-end user interface development, push notifications, Adapters, Content Providers and Services.
 
